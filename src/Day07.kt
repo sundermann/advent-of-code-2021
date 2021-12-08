@@ -1,6 +1,4 @@
 import kotlin.math.abs
-import kotlin.math.absoluteValue
-import kotlin.math.roundToInt
 
 fun main() {
 
